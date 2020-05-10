@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 203558c7e4dc8bf43855c2d2c4733409, type: 3}
+  m_Name: POL_CossackCavalry
+  m_EditorClassIdentifier: 
+  card_name: Cossack Cavalry
+  description: 'Cavalry: Two Movement Points. Charge: Active when placed into the
+    battle '
+  add_info: "Lekka jazda \u2013 formacja kawaleryjska, Pocz\u0105tkowo tworzyli j\u0105
+    zamieszkali na terenie Rzeczypospolitej Wo\u0142osi i Tatarzy. W praktyce, zw\u0142aszcza
+    w p\xF3\u017Aniejszym okresie, opr\xF3cz przedstawicieli tych narodowo\u015Bci
+    s\u0142u\u017Cyli w niej tak\u017Ce Kozacy. Poprzez s\u0142u\u017Cb\u0119 w tej
+    formacji osoba niepochodz\u0105ca ze stanu szlacheckiego mog\u0142a zdoby\u0107
+    tytu\u0142 szlachecki."
+  nation: POL
+  types:
+  - Cavalry
+  - Charge
+  - 
+  - 
+  artwork: {fileID: 21300000, guid: 3d7f20e8cdf07d2408bbed8d62e4f129, type: 3}
+  back_card: {fileID: 0}
+  cost: 2
+  m_att: 2
+  r_att: 0
+  s_att: 0
+  max_mov: 2
+  max_def: 2
+  act_def: 2
+  artwork_name: "J\xF3zef Brandt"
+  card_icon_template: {fileID: 3205784485701695153, guid: 9a8776c071844d14ba2c441660c57cfa,
+    type: 3}
+  big_card_template: {fileID: 3790547143282438560, guid: 07f859c505f2b1d4da2e02ea59f72a87,
+    type: 3}
+  charge: 1
+  trample: 0
+  pike: 0

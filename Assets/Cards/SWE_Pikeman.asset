@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 203558c7e4dc8bf43855c2d2c4733409, type: 3}
+  m_Name: SWE_Pikeman
+  m_EditorClassIdentifier: 
+  card_name: Pikeman
+  description: Pike. +2 to Shock Attack vs Cavalry
+  add_info: "The pike was a long weapon, varying considerably in size, from 3 to 7.5
+    metres long. It was approximately 2.5\u20136 kg in weight. It had a wooden shaft
+    with an iron or steel spearhead affixed."
+  nation: SWE
+  types:
+  - Infantry
+  - Pike
+  - 
+  - 
+  artwork: {fileID: 21300000, guid: 4888e73565df26a4d893f6efc6648c9c, type: 3}
+  back_card: {fileID: 21300000, guid: 1c4e2c09259c71141a5f2d49d77042dd, type: 3}
+  cost: 2
+  m_att: 3
+  r_att: 0
+  s_att: 0
+  max_mov: 1
+  max_def: 3
+  act_def: 3
+  artwork_name: Adam van Breem
+  card_icon_template: {fileID: 3205784485701695153, guid: 9a8776c071844d14ba2c441660c57cfa,
+    type: 3}
+  big_card_template: {fileID: 3790547143282438560, guid: 07f859c505f2b1d4da2e02ea59f72a87,
+    type: 3}
+  charge: 0
+  trample: 0
+  pike: 1

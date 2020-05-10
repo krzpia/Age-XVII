@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 203558c7e4dc8bf43855c2d2c4733409, type: 3}
+  m_Name: SWE_DemiCulverin
+  m_EditorClassIdentifier: 
+  card_name: Demi Culverin
+  description: 'Artillery: Ranged attack'
+  add_info: The demi-culverin was a medium cannon similar to but slightly larger than
+    a saker and smaller than a regular culverin developed in the late 16th century.
+  nation: SWE
+  types:
+  - Artillery
+  - 
+  - 
+  - 
+  artwork: {fileID: 21300000, guid: 04c20d64301106d41b53999e3a200cd9, type: 3}
+  cost: 3
+  m_att: 0
+  r_att: 3
+  s_att: 3
+  max_mov: 1
+  max_def: 2
+  act_def: 2
+  artwork_name: Wikipedia
+  card_icon_template: {fileID: 3205784485701695153, guid: 9a8776c071844d14ba2c441660c57cfa,
+    type: 3}
+  big_card_template: {fileID: 3790547143282438560, guid: 07f859c505f2b1d4da2e02ea59f72a87,
+    type: 3}
+  charge: 0

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 201f445d503618942a7f3e9dedd553aa, type: 3}
+  m_Name: POL_Czarnecki
+  m_EditorClassIdentifier: 
+  card_name: Hetman Czarnecki
+  description: All units on your side of battlefiled recieves full heal and +2 to
+    Shock Attack
+  nation: POL
+  types:
+  - Instant
+  - 
+  - 
+  - 
+  artwork: {fileID: 21300000, guid: 53daab741307bcc439b03bf63d46070d, type: 3}
+  back_card: {fileID: 21300000, guid: 6a8a75ead003bd043b1c971a0507bf43, type: 3}
+  cost: 1
+  artwork_name: Juliusz Kossak
+  big_card_template: {fileID: 5185885148199485513, guid: b33a88ca40abee247b72b76fff677522,
+    type: 3}
+  effect_type: PL_AREA
+  duration: 0
+  m_att_mod: 2
+  s_att_mod: 0
+  r_att_mod: 0
+  cost_mod: 0
+  def_mod: 0
+  heal_to_max_def_mod: 1
+  max_def_mod: 0
+  movement_mod: 0
+  renew_movement_mod: 0
+  renew_if_attacked_mod: 0
+  UnitIco: {fileID: 0}
+  gold_mod: 0
+  income_mod: 0
+  morale_mod: 0

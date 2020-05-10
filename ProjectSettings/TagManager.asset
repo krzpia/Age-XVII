@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BattleSlot
+  - Card Icon
+  - Card Unit
+  - Card Instant
+  - Player HUD
+  - Opponent HUD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cards
+  - BackGround
+  - Defender
+  - Attacker
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 801029837
+    locked: 0
+  - name: Defender
+    uniqueID: 3915014191
+    locked: 0
+  - name: Attacker
+    uniqueID: 2922130091
+    locked: 0
+  - name: UICards
+    uniqueID: 1348512337
+    locked: 0
+  - name: UIontop
+    uniqueID: 2606396533
+    locked: 0
